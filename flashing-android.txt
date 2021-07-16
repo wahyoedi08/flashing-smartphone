@@ -6,10 +6,10 @@ flashing android
 - buka aplikasi odin
 - sambungkan smartphone ke pc dengan USB
 - klik AP lalu pilih PDA firmware yang sudah di download
-- jika dalam bentuk archive(md5) silahkan ekstak dengan winRAR
+- note : jika dalam bentuk archive(md5) silahkan ekstak dengan winRAR
 - lalu klik start
 - setelah muncul tanda hijau di pojok kanan atas maka segera cabut USB
-- setelah selesai namun jika terjadi bootlop kembali, silahkan masuk ke mode recovery → tekan tombol power + volume up
+- note : setelah selesai namun jika terjadi bootlop kembali, silahkan masuk ke mode recovery → tekan tombol power + volume up
 - kemudian pilih wipe cache partition & klik yes
 - lalu pilih wipe data/factory reset & klik factory data reset
 - terakhir klik reboot system now
